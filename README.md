@@ -26,56 +26,49 @@ En **CodeXpress**, no solo escribimos líneas de código; construimos arquitectu
 
 ---
 
-## 🧰 Stack Tecnológico Completo
-
-### 🎨 Frontend & Diseño Interactivo
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind_css&logoColor=white" />
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Lenguajes de Programación
-<p align="left">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-### 🗄️ Almacenamiento & Bases de Datos (BD)
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 📊 Análisis de Sistemas & Control de Versiones
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/visual_paradigm-%23FF0000.svg?style=for-the-badge&logo=visual-paradigm&logoColor=white" />
-</p>
-
----
-
-## 📊 Estadísticas de Actividad de la Agencia
+## 🧰 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeXpressCorp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00FFCC&icon_color=00FFCC&text_color=ffffff&bg_color=010610" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXpressCorp&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC&text_color=ffffff&bg_color=010610" height="150" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,python,java,cpp,mysql,postgres,firebase,git,github,vscode,canva&perline=8" /></a>
 </p>
 
 ---
 
-## 📞 ¡Hablemos de tu próximo gran proyecto!
-¿Tienes una idea en mente o un proceso que necesita automatización? Saltémonos los intermediarios y diseñemos algo increíble juntos.
+## 📁 Proyectos Destacados
 
-*   💬 **Línea Directa / WhatsApp:** [+57 313 5748358](https://wa.me/573135748358)
-*   📧 **Correo Electrónico Corporativo:** [codexpress.corp@gmail.com](mailto:codexpress.corp@gmail.com)
+A continuación, algunos de los proyectos en los que hemos trabajado como agencia. ¡No dudes en revisarlos!
+
+| Proyecto | Descripción | Tecnologías | Link |
+| :--- | :--- | :--- | :---: |
+| **Plataforma Web CodeXpress** | Landing page oficial e interactiva de la agencia para la captación de clientes y exposición de servicios. | HTML, CSS, JavaScript, Git | [Ver repo](https://github.com/CodeXpressCorp/Pagina_Web_CodeXpress) |
+| **Sistema de Logística & Distribución** | Arquitectura y modelado de un sistema de control de flujos logísticos y optimización de distribución. | Análisis de Sistemas, DB, Logic | [Ver repo](#) |
+| **CodeXpress Mobile App** | Concepto de aplicación móvil nativa con interfaces fluidas para la gestión de citas y proyectos directos. | Mobile Dev, APIs, Firebase | [Ver repo](#) |
+
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXpressCorp&theme=tokyonight&hide_border=true&background=010610&ring=00FFCC&fire=00FFCC&sideNums=ffffff&sideLabels=ffffff" alt="CodeXpress Streak Stats" />
+</p>
+
+---
+
+## 🌐 Conecta con nosotros
+
+¡No dudes en contactarnos! Estamos abiertos a colaborar en proyectos interesantes y a hacer realidad tus ideas tecnológicas.
+
+<p align="center">
+  <a href="mailto:codexpress.corp@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/573135748358">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/CodeXpressCorp">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/content?type=waving&color=010610&height=100&section=footer" width="100%" />
