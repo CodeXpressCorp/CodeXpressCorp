@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=010610&height=220&section=header&text=CodeXpress&fontSize=55&fontColor=00FFCC&animation=twinkling" width="100%" />
+  <img src="banner.png" width="100%" alt="CodeXpress Banner" />
 </p>
 
 <p align="center">
